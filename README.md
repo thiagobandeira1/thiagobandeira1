@@ -52,3 +52,4 @@ analytics platforms behind those results.
 ## Contact
 
 📧 thiagobatistanb@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/thiago-bandeira-ai)
