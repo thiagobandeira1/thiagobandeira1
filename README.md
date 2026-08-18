@@ -11,7 +11,6 @@ reduction in avoidable ER visits and admissions, and $50K+ in recovered revenue
 through Python/SQL automation.
 
 - 🎓 M.S. Data Science & Artificial Intelligence, Florida International University (GPA 4.0/4.0)
-- 🎓 B.S. Biology (Pre-Medical), University of St. Francis
 - 📜 AWS Certified Machine Learning Engineer (Associate) · IBM Data Science Professional · IBM Generative AI for Data Scientists · Microsoft Azure AI Fundamentals (AI-900)
 - 🌎 Trilingual: English, Portuguese, Spanish
 
